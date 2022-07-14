@@ -10,7 +10,7 @@ For more details about JLL packages and how to use them, see `BinaryBuilder.jl` 
 
 `libLLVM_jll.jl` is available for the following platforms:
 
-* `Windows x86_64 {cxxstring_abi=cxx11, llvm_version=14}` (`x86_64-w64-mingw32-cxx11-llvm_version+14`)
+* `Windows x86_64 {cxxstring_abi=cxx11, llvm_version=14.asserts}` (`x86_64-w64-mingw32-cxx11-llvm_version+14.asserts`)
 
 ## Dependencies
 
