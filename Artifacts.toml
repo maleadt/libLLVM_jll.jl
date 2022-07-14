@@ -1,10 +1,10 @@
 [[libLLVM]]
 arch = "x86_64"
 cxxstring_abi = "cxx11"
-git-tree-sha1 = "374d1a9e0b60d3fb208c88e3ef582bf1459c6a0b"
+git-tree-sha1 = "773a3fee9b4c314efb868a4c636a9a2ba87bda73"
 llvm_version = "14"
 os = "windows"
 
     [[libLLVM.download]]
-    sha256 = "d68cefc9057aa36dd48f658c476cdab3484fde5444240e760380eb2acc9ae040"
+    sha256 = "8466d9db895546605796423c40bb1f1a76e0d790440789e6e9ae4413eccaa940"
     url = "https://github.com/maleadt/libLLVM_jll.jl/releases/download/libLLVM-v14.0.5+3/libLLVM.v14.0.5.x86_64-w64-mingw32-cxx11-llvm_version+14.tar.gz"
