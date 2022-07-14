@@ -6,5 +6,5 @@ llvm_version = "14"
 os = "windows"
 
     [[libLLVM.download]]
-    sha256 = "4d1787609acff81ac3e26dae5695a77fd9e22855966a1e23e28b69d96b706bfb"
+    sha256 = "d68cefc9057aa36dd48f658c476cdab3484fde5444240e760380eb2acc9ae040"
     url = "https://github.com/maleadt/libLLVM_jll.jl/releases/download/libLLVM-v14.0.5+3/libLLVM.v14.0.5.x86_64-w64-mingw32-cxx11-llvm_version+14.tar.gz"
